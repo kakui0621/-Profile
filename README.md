@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# 職務経歴書
+## 基本情報
+|key|value|
+|---|-----|
+|Name|角井克彰(Yosiaki kakui)|
+|Qiita|[gamelike319](https://qiita.com/gamelike319)|
 
-You can use the [editor on GitHub](https://github.com/kakui0621/-Profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## スキル
+### 言語
+- Java
+- PHP
+- C#
+- Ruby
+- Shell,Bat
+- 日本語
+  - ネイティブ
+- English
+  - 日常会話レベル（カナダに３か月、フィリピンに１か月留学経験あり）
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### フレームワーク
+- Java Strats
+- Unity
+  - ゲーム開発
+- Rails
+- Laravel
 
-```markdown
-Syntax highlighted code block
+### AWS
+- コンピューティング（EC2・ECS・EKS・Elastic Beanstalk・Lambda）
+- ネットワーク（VPC・API Gateway・CloudFront・Route 53）
+- ストレージ（EBS・S3・S3 Glacier）
+- マネジメントとガバナンス（CloudWatch・CloudFormation・CloudTrail）
+- データベース（RDS Oracle・DynamoDB）
+- 開発者ツール（Cloud9・CodeBuild・CodeDeploy・CodePipeline）
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## 強み
+-1.売り上げ、数字を最優先したプロダクト開発
+「ゲーム系ベンチャー企業では、売り上げを最優先にしたプロダクト開発を行っていました。業務で鍛えたマーケティング感覚を用いて、商品開発で利益を出すのは楽しいです。」
 
-1. Numbered
-2. List
+-2.幅広いプログラミングへの知見
+「言語は業務経験で、java、C#、ruby、php、node.js
+フレームワークはstrats、unity、等の経験があります。
+また、Paizaチャレンジ（標準入出力を用いた競技プログラミング）にてSランクの問題をクリアした実績がありプログラミングには適正があると考えています。
+https://paiza.jp/challenges」
 
-**Bold** and _Italic_ and `Code` text
+-3.インフラ（主にAWS）のベストプラクティスの知見
+「SIERの業務過程にてAWSの設計構築をする機会があり、
+AWSのベストなアーキテクチャとは何かを学習し、AWSのベスプラに合わせたマネージドサービスの使いかたには大分詳しくなりました。」
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kakui0621/-Profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## やったことはないが興味があるもの
+- Pythonを使用した機械学習・画像認証
