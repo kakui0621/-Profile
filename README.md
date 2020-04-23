@@ -52,3 +52,19 @@ AWSのベストなアーキテクチャとは何かを学習し、AWSのベス�
 
 ## やったことはないが興味があるもの
 - Pythonを使用した機械学習・画像認証
+
+
+## 直近で作ったwebアプリポートフォリオ
+
+###Rails
+
+ログイン機能付きsns
+https://devblog2020.herokuapp.com/
+
+
+レストランログ
+https://restaurant-log.herokuapp.com/
+
+
+リアクトスレッド
+https://reactapp1-893bb.firebaseapp.com/
