@@ -56,15 +56,14 @@ AWSのベストなアーキテクチャとは何かを学習し、AWSのベス�
 
 ## 直近で作ったwebアプリポートフォリオ
 
-###Rails
 
-ログイン機能付きsns
+- ログイン機能付きsns<br>
 https://devblog2020.herokuapp.com/
 
 
-レストランログ
+- レストランログ<br>
 https://restaurant-log.herokuapp.com/
 
 
-リアクトスレッド
+- リアクトスレッド<br>
 https://reactapp1-893bb.firebaseapp.com/
