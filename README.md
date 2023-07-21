@@ -5,6 +5,7 @@
 |Name|角井克彰(Yosiaki kakui)|
 |Qiita|[gamelike319](https://qiita.com/gamelike319)|
 
+https://vercel.com/kakui0621/myprofile
 
 ## スキル
 ### 言語
